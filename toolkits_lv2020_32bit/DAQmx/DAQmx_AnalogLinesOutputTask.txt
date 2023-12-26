@@ -1,0 +1,2 @@
+Chan Name	DEV	Chan	UNITS	Custom Scale Name	AO Max	AO Min	 terminal configuration
+Test1	Dev5	ao1	Volts		5	0	Default
