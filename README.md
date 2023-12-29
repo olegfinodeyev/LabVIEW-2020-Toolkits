@@ -1,8 +1,7 @@
 # VI-Server-Toolkit
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+    Root Dir-->LabVIEW 2020 Toolkits;
+    Root Dir-->NewTS-Soft-Panels;
+    NewTS-Soft-Panels-->Keithley2100 (Instrument Soft Panel folder);
+    ```
