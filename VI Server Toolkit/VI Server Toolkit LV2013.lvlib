@@ -7,7 +7,6 @@
 		<Item Name="GetControlLabel_Boolean.vi" Type="VI" URL="../VI Server Libraries/VI Server_GetControlLabel.llb/GetControlLabel_Boolean.vi"/>
 		<Item Name="VI Server_Cluster_GetVI ServerRefs.vi" Type="VI" URL="../VI Server_GetControls/VI Server_Cluster_GetVI ServerRefs.vi"/>
 		<Item Name="VI Server_Get ComboBox Selection.vi" Type="VI" URL="../VI Server_GetControls/VI Server_Get ComboBox Selection.vi"/>
-		<Item Name="VI Server_Get Control Label_Value_Ref.vi" Type="VI" URL="../VIS_GetControls/VI Server_Get Control Label_Value_Ref.vi"/>
 		<Item Name="VI Server_Get Control Reference.vi" Type="VI" URL="../VI Server_GetControls/VI Server_Get Control Reference.vi"/>
 		<Item Name="VI Server_Get Control_Value_StringFormat.vi" Type="VI" URL="../VI Server_GetControls/VI Server_Get Control_Value_StringFormat.vi"/>
 		<Item Name="VI Server_Get ControlsValue_ArrayInput_StringFormat.vi" Type="VI" URL="../VI Server_GetControls/VI Server_Get ControlsValue_ArrayInput_StringFormat.vi"/>
