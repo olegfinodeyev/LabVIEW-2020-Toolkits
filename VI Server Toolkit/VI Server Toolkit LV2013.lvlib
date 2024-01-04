@@ -204,7 +204,6 @@
 	</Item>
 	<Item Name="VIS_OpenCloseRefs" Type="Folder">
 		<Item Name="VI Server_Close ONLY Controls Refs.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_Close ONLY Controls Refs.vi"/>
-		<Item Name="VI Server_Close VI Controls Refs.vi" Type="VI" URL="../VIS_OpenCloseRefs/VI Server_Close VI Controls Refs.vi"/>
 		<Item Name="VI Server_Close VI Controls RefsWithoutError.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_Close VI Controls RefsWithoutError.vi"/>
 		<Item Name="VI Server_Generate Selected Controls Cluster.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_Generate Selected Controls Cluster.vi"/>
 		<Item Name="VI Server_GenerateTabControlList.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_GenerateTabControlList.vi"/>
@@ -218,7 +217,6 @@
 		<Item Name="VI Server_Get_INI_FilePath.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_Get_INI_FilePath.vi"/>
 		<Item Name="VI Server_GetClusterControlRefs.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_GetClusterControlRefs.vi"/>
 		<Item Name="VI Server_MergeRefs.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_MergeRefs.vi"/>
-		<Item Name="VI Server_Open VI Controls Refs_Labels.vi" Type="VI" URL="../VIS_OpenCloseRefs/VI Server_Open VI Controls Refs_Labels.vi"/>
 		<Item Name="VI Server_Open VI Controls Refs_Labels_ApplicationRefInput.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_Open VI Controls Refs_Labels_ApplicationRefInput.vi"/>
 		<Item Name="VI Server_Open VI Controls Refs_Labels_VI Name Input.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_Open VI Controls Refs_Labels_VI Name Input.vi"/>
 		<Item Name="VI Server_Open VI Controls Refs_LabelsFromVI Reference.vi" Type="VI" URL="../VI Server_Open_Close Refs/VI Server_Open VI Controls Refs_LabelsFromVI Reference.vi"/>
