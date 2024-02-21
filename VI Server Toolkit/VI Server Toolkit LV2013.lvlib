@@ -223,7 +223,7 @@
 	<Item Name="VIS_SetControls" Type="Folder">
 		<Item Name="Set Controls from String Formats_ArrayInputs_SignalingValue.vi" Type="VI" URL="../VI Server_SetControls/Set Controls from String Formats_ArrayInputs_SignalingValue.vi"/>
 		<Item Name="VI Server_CycleEventBySignalingValue.vi" Type="VI" URL="../VI Server_SetControls/VI Server_CycleEventBySignalingValue.vi"/>
-		<Item Name="VI Server_MenuRing_Update_ItemNames.vi" Type="VI" URL="../VIS_SetControls/VI Server_MenuRing_Update_ItemNames.vi"/>
+		<Item Name="VI Server_MenuRing_Update_ItemNames.vi" Type="VI" URL="../VI Server_SetControls/VI Server_MenuRing_Update_ItemNames.vi"/>
 		<Item Name="VI Server_MenuRing_Update_ItemNames_FromSpeadsheetString.vi" Type="VI" URL="../VIS_SetControls/VI Server_MenuRing_Update_ItemNames_FromSpeadsheetString.vi"/>
 		<Item Name="VI Server_Set ComboBox by Item Selected.vi" Type="VI" URL="../VI Server_SetControls/VI Server_Set ComboBox by Item Selected.vi"/>
 		<Item Name="VI Server_Set Control Signaling Value from String Format.vi" Type="VI" URL="../VI Server_SetControls/VI Server_Set Control Signaling Value from String Format.vi"/>
