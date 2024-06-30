@@ -226,7 +226,7 @@
 		<Item Name="VI Server_MenuRing_Update_ItemNames.vi" Type="VI" URL="../VI Server_SetControls/VI Server_MenuRing_Update_ItemNames.vi"/>
 		<Item Name="VI Server_MenuRing_Update_ItemNames_FromSpeadsheetString.vi" Type="VI" URL="../VIS_SetControls/VI Server_MenuRing_Update_ItemNames_FromSpeadsheetString.vi"/>
 		<Item Name="VI Server_Set ComboBox by Item Selected.vi" Type="VI" URL="../VI Server_SetControls/VI Server_Set ComboBox by Item Selected.vi"/>
-		<Item Name="VI Server_Set Control Signaling Value from String Format.vi" Type="VI" URL="../VI Server_SetControls/VI Server_Set Control Signaling Value from String Format.vi"/>
+		<Item Name="VI Server_Set Control Signaling Value from String Format.vi" Type="VI" URL="../VIS_SetControls/VI Server_Set Control Signaling Value from String Format.vi"/>
 		<Item Name="VI server_Set Control Value from String Format.vi" Type="VI" URL="../VI Server_SetControls/VI server_Set Control Value from String Format.vi"/>
 		<Item Name="VI Server_Set Control Value.vi" Type="VI" URL="../VI Server_SetControls/VI Server_Set Control Value.vi"/>
 		<Item Name="VI Server_Set Control Values from String Formats.vi" Type="VI" URL="../VI Server_SetControls/VI Server_Set Control Values from String Formats.vi"/>
